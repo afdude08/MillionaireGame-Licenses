@@ -1,7 +1,5 @@
 {
-  "Revoked": [
-    2
-  ],
-  "Published": "2026-10-30T09:48:29.7655428Z",
-  "Signature": "1Vw7y0\u002B6WVnOUjjWwRd2saB6eoUgI7e1RT/qvFKtm19SX47iOBsLt9STMc3AJL45u/8RdfGet08Z/HifGtx0zw=="
+  "Revoked": [],
+  "Published": "2026-10-30T09:48:58.9050302Z",
+  "Signature": "v8vBbB0wRzs34XLWkBXj6DevyEiSlWP6T4/d4ffeemyQrhKWD3zNrElIkJvFEg5\u002BmRcHfNqqgswhdrlnzY9XrQ=="
 }
